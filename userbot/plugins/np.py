@@ -14,8 +14,8 @@ from userbot.utils import admin_cmd
 async def _(event):
     if event.fwd_from:
         return
-    animation_interval = 0.2
-    animation_ttl = range(0,36)
+    animation_interval = 0.3
+    animation_ttl = range(0,65)
     #input_str = event.pattern_match.group(1)
    # if input_str == "np":
     await event.edit("np")
@@ -45,4 +45,4 @@ async def _(event):
     for i in animation_ttl:
         	
         await asyncio.sleep(animation_interval)
-        await event.edit(animation_chars[i % 18])
+        await event.edit(animation_chars[i % 25])
