@@ -1,7 +1,7 @@
 {
-  "name": "FRIDAY",
-  "description": "Only For Legends",
-  "logo": "https://telegra.ph/file/9b54a71ac22abd00448a5.jpg",
+  "name": "JARVIS",
+  "description": "Only For Mastermind's",
+  "logo": "https://telegra.ph/file/ee75b53eee97ead8c2b1f.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/leobrownlee/FRIDAY/",
+  "repository": "https://github.com/4rjun9/JARVIS",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
