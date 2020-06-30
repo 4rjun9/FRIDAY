@@ -20,4 +20,4 @@
 **CLICK THE PHOTO BELOW TO DEPLOY**
 
 
-[![Deploy](https://telegra.ph/file/7cf8df5c4ab7f6ae24f37.jpg)](https://heroku.com/deploy?template=https://github.com/leobrownlee/FRIDAY)
+[![Deploy](https://telegra.ph/file/090f48076d4fc2ded4f66.jpg)](https://heroku.com/deploy?template=https://github.com/4rjun9/JARVIS)
