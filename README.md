@@ -2,6 +2,7 @@
 ### ⚠️ USE THIS REPO AT YOUR OWN RISK
 
 
+https://telegra.ph/file/ee75b53eee97ead8c2b1f.jpg
 
 
 ***COMMANDS TO TAKE STRING_SESSION IN TERMUX APP**
