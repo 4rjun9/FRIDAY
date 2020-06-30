@@ -14,7 +14,7 @@
 
 
 
-[![ONLINE_TERMUX_STRING_SESSION](https://telegra.ph/file/012e02bec79baa81490ee.jpg)](https://indianbotstringsetup.pureindialover.repl.run)
+[![ONLINE_TERMUX_STRING_SESSION](https://telegra.ph/file/60631fe554677ec57e42d.jpg)](https://indianbotstringsetup.pureindialover.repl.run)
 
 
 **CLICK THE PHOTO BELOW TO DEPLOY**
